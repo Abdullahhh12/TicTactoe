@@ -99,3 +99,28 @@ nav ul{
 
     }
 }
+.insta{
+    width: 40px;
+    position: absolute;
+    right: 100px;
+    top: 20px;
+
+}
+.snap{
+    width: 25px;
+    position: absolute;
+    right: 50px;
+    top: 27px;
+
+}
+.insta:hover{
+    cursor: pointer;
+    border: 2px solid rgb(20, 6, 6);
+    border-radius: 12px;
+}
+.snap:hover{
+    cursor: pointer;
+    border: 2px solid rgb(13, 14, 13);
+    border-radius: 8px;
+
+}
