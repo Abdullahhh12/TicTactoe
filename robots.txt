@@ -1,4 +1,0 @@
-Sitemap: https://abdullahhh12.github.io/TicTactoe/sitemap.xml
-
-User-agent: *
-Disallow:
